@@ -1,0 +1,12 @@
+{
+  "name": "wakeup-calls",
+  "version": "1.0.0",
+  "description": "Serveless Lambda",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.140.0",
+    "moment": "^2.19.1",
+    "serverless-offline": "^3.16.0"
+  }
+}
